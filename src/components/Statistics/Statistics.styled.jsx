@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
-export const OptionsTitle = styled.h3`
-  padding-left: 40px;
-`;
+// export const OptionsTitle = styled.h3`
+//   padding-left: 40px;
+// `;
 export const OptionsList = styled.ul`
   list-style: none;
 `;

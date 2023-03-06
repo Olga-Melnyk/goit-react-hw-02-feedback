@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const SectionBlock = styled.section`
+export const SectionBox = styled.section`
   width: 450px;
   margin: 0 auto;
   background-color: #f7e4e4;
